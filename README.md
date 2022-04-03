@@ -26,6 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+ - API REST
+ - Docker
+ - Queue with Redis
+
 ## Installation
 
 ```bash
